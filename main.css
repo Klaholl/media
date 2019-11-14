@@ -1,0 +1,13 @@
+header h1 {
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+}
+
+.menu {
+    display : flex;
+    justify-content: center;
+    
+}
